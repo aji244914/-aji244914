@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aji Mathew </h1>
 <h3 align="center">MCA Student | Full Stack Developer | Tech Enthusiast 🚀</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MCA+Student;React+%7C+Node.js+Learner;Passionate+About+Coding;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MCA+Student;Passionate+About+Coding;Software+Enthusiast" />
 </p>
 
 👨‍💻 About Me
