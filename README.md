@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aji Mathew </h1>
 <h3 align="center">MCA Student | Full Stack Developer | Tech Enthusiast 🚀</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MCA+Student;React+%7C+Node.js+Learner;Passionate+About+Coding;Open+Source+Enthusiast" />
-</p>---
+</p>
 
 👨‍💻 About Me
 
@@ -33,7 +33,7 @@
 <p align="left">
   📧 Email: <a href="mailto:AJI244914@GMAIL.COM">AJI244914@GMAIL.COM</a><br><br>💼 LinkedIn: <a href="https://linkedin.com/in/yourlinkedinusername">linkedin.com/in/yourlinkedinusername</a>
 
-</p>---
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
