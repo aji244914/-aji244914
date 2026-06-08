@@ -7,7 +7,7 @@
 
 🎓 Pursuing Master of Computer Applications (MCA) 
 💡 Passionate about building modern and responsive web applications
-🌱 Currently learning React.js, Node.js & Backend Development
+🌱 Currently learning Machine Learning & Backend Development
 ⚡ Love exploring new technologies and improving coding skills
 🚀 Goal: To become a skilled Full Stack Developer
 
